@@ -1,13 +1,6 @@
-# 🚀 Metaskill – RizeOS Core Team Internship Project
+# 🚀 Metaskill 
 
-This is my submission for the **RizeOS Core Team Internship**, featuring a full-stack job and networking portal with **AI-powered skill extraction** and **Web3 wallet-based job posting payments**.
-
----
-
-## 🔗 Live Links
-
-- 🌐 **Deployed App**: [https://metaskill-rizeos-project.vercel.app](https://metaskill-rizeos-project.vercel.app)  
-- 💻 **GitHub Repo**: [https://github.com/yashaswini008/metaskill-rizeos-project](https://github.com/yashaswini008/metaskill-rizeos-project)
+This is featuring a full-stack job and networking portal with **AI-powered skill extraction** and **Web3 wallet-based job posting payments**.
 
 ---
 
@@ -49,42 +42,10 @@ This is my submission for the **RizeOS Core Team Internship**, featuring a full-
 
 ---
 
-## 📈 Go-To-Market Strategy (GTM)
-
-- 🎯 **Target Users**: College students, freelancers, junior developers
-- 📣 **User Acquisition Plan**:
-  - Campus Ambassador Program
-  - LinkedIn and WhatsApp promotions
-  - ₹5,000 paid marketing for targeted reach
-- 🧠 **Retention Features**:
-  - Resume scoring
-  - AI-based recommendations
-  - Verified wallet reputations
-
----
-
-## 💰 Monetization Model
-
-- ₹150/month subscription for recruiters
-- Pay-per-job post (Web3 fee system)
-- AI Resume Boost and Skill Gap Analyzer (token-based)
-
----
-
-## 🛣️ Product Roadmap
-
-- ✅ Build MVP (AI + Web3 integration)
-- 🧠 Add resume parsing and job matching
-- 📲 Mobile responsive improvements
-- 🧑‍🏫 Mentor-based freelance network
-- ⛓️ Smart contracts for secure hiring & escrow
-
----
-
 ## 🧑‍💻 Developer
 
 **Yashaswini Ande**  
-📫 andey.yashaswini@gmail.com  
+📫 ande.yashaswini@gmail.com  
 🔗 [GitHub Profile](https://github.com/yashaswini008)
 
 ---
